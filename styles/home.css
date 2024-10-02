@@ -1,0 +1,15 @@
+body{
+    background-image: url(../images/giphy.webp);
+    background-repeat:no-repeat;
+    background-size: 100vw 100vh ;
+}
+main{
+    background-color: #ffffff88;
+}
+footer{
+    position:fixed;
+    bottom:0;
+    background: black;
+    color: whitesmoke;
+    
+}
