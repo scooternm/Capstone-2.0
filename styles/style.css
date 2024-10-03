@@ -1,8 +1,21 @@
 body{
-    background-color:chocolate;
+    background-color:rgb(113, 148, 41);
     padding: 1rem;
 }
 
 .card{
     display: inline-block;
 }
+
+.container{
+    background-color: whitesmoke;
+    margin-top: 4rem;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+.container.fluid{
+padding: auto;
+}
+
+
