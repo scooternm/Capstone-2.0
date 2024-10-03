@@ -5,27 +5,36 @@ body {
   padding: 0;
 }
 body{
-    
     color: brown;
     background: url(../images/giphy.webp) center / cover;
+    }
 
-}
 main{
-    background-color: #ffffff88;
+    background-color: #83808088;
+    width: 50vw;
+    margin: 1rem auto;
+    padding: 1rem;
 }
 footer{
-    position:fixed;
     bottom:0;
-    background: black;
     color: whitesmoke;
     margin-top: auto;
     width: 100%;
-    }
+    background-color:rgba(0, 0, 0, 0.5);
+     text-align:center;
+    padding: 2rem;
+    margin-top: 4rem;
+    display: flex;           
+    justify-content: center; 
+    align-items: center;     
+}
+    
 
     .navbar-brand{
         font-size: 50px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         margin: auto;
+        
         }
 
    
