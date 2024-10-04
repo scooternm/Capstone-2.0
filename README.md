@@ -28,6 +28,7 @@ All products within the shop were images taken from Google and various existing 
 Here are some previews of the website pages:
 
 ### Homepage
+
 <img src="screenshots/home.png" alt="Homepage>
 
 ### Products Page
@@ -38,6 +39,9 @@ Here are some previews of the website pages:
 
 ### Register Page
 <img src="screenshots/register.png" alt="Register">
+
+### Login Page
+<img src="screenshots/login.png" alt="Login">
 
 
 
