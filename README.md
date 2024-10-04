@@ -29,7 +29,7 @@ Here are some previews of the website pages:
 
 ### Homepage
 
-<img src="screenshots/preview/screenshots/home.png" alt="Homepage>
+<img src="screenshots/preview/screenshots/home.png" alt="Homepage">
 
 ### Products Page
 <img src="screenshots/preview/screenshots/product.png" alt="Products">
