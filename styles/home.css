@@ -1,3 +1,7 @@
+img{
+    height: 100px;
+}
+
 html,
 body {
   height: 100%;
@@ -7,6 +11,7 @@ body {
 body{
     color: brown;
     background: url(../images/giphy.webp) center / cover;
+    image-resolution: 1080;
     }
 
 main{
