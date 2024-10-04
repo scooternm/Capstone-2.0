@@ -28,19 +28,18 @@ All products within the shop were images taken from Google and various existing 
 Here are some previews of the website pages:
 
 ### Homepage
-<img src="preview/home.png" alt="Homepage" width="400px">
+<img src="screenshots/home.png" alt="Homepage>
 
 ### Products Page
-<img src="preview/products.png" alt="Products Page" width="400px">
+<img src="screenshots/products.png" alt="Products">
 
 ### Checkout Page
-<img src="preview/checkout.png" alt="Checkout Page" width="400px">
+<img src="screenshots/checkout.png" alt="Checkout">
 
 ### Register Page
-<img src="preview/register.png" alt="Register Page" width="400px">
+<img src="screenshots/register.png" alt="Register">
 
-### Music Page
-<img src="preview/music.png" alt="Music Page" width="400px">
+
 
 ## 🏗️ Project Structure
 
