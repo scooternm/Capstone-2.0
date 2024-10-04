@@ -11,7 +11,7 @@ body {
 body{
     color: brown;
     background: url(../images/giphy.webp) center / cover;
-    image-resolution: 1080;
+    image-resolution: 96dpi;
     }
 
 main{
@@ -19,23 +19,27 @@ main{
     margin: 1rem auto;
     padding: 1rem;
     color: orangered;
-}
+    background-color:rgba(250, 235, 215, 0.66);
+    position:relative;
+
+    
+} 
 h1{
     font-size: 20px;
 }
 
 footer{
-    bottom:0;
+    bottom: 20rem;
     color: whitesmoke;
-    margin-top: auto;
     width: 100%;
     background-color:rgba(0, 0, 0, 0.5);
      text-align:center;
     padding: 2rem;
-    margin-top: 4rem;
+    margin:auto;
     display: flex;           
     justify-content: center; 
     align-items: center;     
+    object-fit: contain;
 }
     
 
