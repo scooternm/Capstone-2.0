@@ -2,11 +2,6 @@ img{
     height: 100px;
 }
 
-body{
-    background-color:rgb(113, 148, 41);
-    padding: 1rem;
-}
-
 .card{
     display: inline-block;
 }
@@ -25,7 +20,7 @@ padding: .5rem;
 .navbar-brand{
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: auto;
+    margin: .25rem;
     
 }
 
