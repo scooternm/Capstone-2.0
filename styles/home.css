@@ -15,11 +15,15 @@ body{
     }
 
 main{
-    background-color: #83808088;
     width: 50vw;
     margin: 1rem auto;
     padding: 1rem;
+    color: orangered;
 }
+h1{
+    font-size: 20px;
+}
+
 footer{
     bottom:0;
     color: whitesmoke;
