@@ -29,19 +29,19 @@ Here are some previews of the website pages:
 
 ### Homepage
 
-<img src="screenshots/home.png" alt="Homepage>
+<img src="screenshots/preview/screenshots/home.png" alt="Homepage>
 
 ### Products Page
-<img src="screenshots/products.png" alt="Products">
+<img src="screenshots/preview/screenshots/product.png" alt="Products">
 
 ### Checkout Page
-<img src="screenshots/checkout.png" alt="Checkout">
+<img src="screenshots/preview/screenshots/checkout.png" alt="Checkout">
 
 ### Register Page
-<img src="screenshots/register.png" alt="Register">
+<img src="screenshots/preview/screenshots/register.png" alt="Register">
 
 ### Login Page
-<img src="screenshots/login.png" alt="Login">
+<img src="screenshots/preview/screenshots/login.png" alt="Login">
 
 
 
